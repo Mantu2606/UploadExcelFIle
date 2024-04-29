@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "Upload__ExcelAndCSV_Project.Controllers.UploadFileController",
+    "Method": "UploadExcelFile",
+    "RelativePath": "api/UploadFile/UploadExcelFile",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "File",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

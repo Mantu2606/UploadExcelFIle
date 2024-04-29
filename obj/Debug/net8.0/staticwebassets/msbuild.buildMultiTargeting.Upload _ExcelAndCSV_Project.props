@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Upload _ExcelAndCSV_Project.props" />
+</Project>

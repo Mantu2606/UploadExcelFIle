@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Upload _ExcelAndCSV_Project.props" />
+</Project>

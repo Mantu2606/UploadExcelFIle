@@ -1,0 +1,57 @@
+D:\C# Api 2022\api\UdemyLecture\Upload _ExcelAndCSV_Project\Upload _ExcelAndCSV_Project\bin\Debug\net8.0\appsettings.Development.json
+D:\C# Api 2022\api\UdemyLecture\Upload _ExcelAndCSV_Project\Upload _ExcelAndCSV_Project\bin\Debug\net8.0\appsettings.json
+D:\C# Api 2022\api\UdemyLecture\Upload _ExcelAndCSV_Project\Upload _ExcelAndCSV_Project\bin\Debug\net8.0\Upload _ExcelAndCSV_Project.exe
+D:\C# Api 2022\api\UdemyLecture\Upload _ExcelAndCSV_Project\Upload _ExcelAndCSV_Project\bin\Debug\net8.0\Upload _ExcelAndCSV_Project.deps.json
+D:\C# Api 2022\api\UdemyLecture\Upload _ExcelAndCSV_Project\Upload _ExcelAndCSV_Project\bin\Debug\net8.0\Upload _ExcelAndCSV_Project.runtimeconfig.json
+D:\C# Api 2022\api\UdemyLecture\Upload _ExcelAndCSV_Project\Upload _ExcelAndCSV_Project\bin\Debug\net8.0\Upload _ExcelAndCSV_Project.dll
+D:\C# Api 2022\api\UdemyLecture\Upload _ExcelAndCSV_Project\Upload _ExcelAndCSV_Project\bin\Debug\net8.0\Upload _ExcelAndCSV_Project.pdb
+D:\C# Api 2022\api\UdemyLecture\Upload _ExcelAndCSV_Project\Upload _ExcelAndCSV_Project\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+D:\C# Api 2022\api\UdemyLecture\Upload _ExcelAndCSV_Project\Upload _ExcelAndCSV_Project\bin\Debug\net8.0\ExcelDataReader.dll
+D:\C# Api 2022\api\UdemyLecture\Upload _ExcelAndCSV_Project\Upload _ExcelAndCSV_Project\bin\Debug\net8.0\ExcelDataReader.DataSet.dll
+D:\C# Api 2022\api\UdemyLecture\Upload _ExcelAndCSV_Project\Upload _ExcelAndCSV_Project\bin\Debug\net8.0\Google.Protobuf.dll
+D:\C# Api 2022\api\UdemyLecture\Upload _ExcelAndCSV_Project\Upload _ExcelAndCSV_Project\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+D:\C# Api 2022\api\UdemyLecture\Upload _ExcelAndCSV_Project\Upload _ExcelAndCSV_Project\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+D:\C# Api 2022\api\UdemyLecture\Upload _ExcelAndCSV_Project\Upload _ExcelAndCSV_Project\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+D:\C# Api 2022\api\UdemyLecture\Upload _ExcelAndCSV_Project\Upload _ExcelAndCSV_Project\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\C# Api 2022\api\UdemyLecture\Upload _ExcelAndCSV_Project\Upload _ExcelAndCSV_Project\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\C# Api 2022\api\UdemyLecture\Upload _ExcelAndCSV_Project\Upload _ExcelAndCSV_Project\bin\Debug\net8.0\MySql.Data.dll
+D:\C# Api 2022\api\UdemyLecture\Upload _ExcelAndCSV_Project\Upload _ExcelAndCSV_Project\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\C# Api 2022\api\UdemyLecture\Upload _ExcelAndCSV_Project\Upload _ExcelAndCSV_Project\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\C# Api 2022\api\UdemyLecture\Upload _ExcelAndCSV_Project\Upload _ExcelAndCSV_Project\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\C# Api 2022\api\UdemyLecture\Upload _ExcelAndCSV_Project\Upload _ExcelAndCSV_Project\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\C# Api 2022\api\UdemyLecture\Upload _ExcelAndCSV_Project\Upload _ExcelAndCSV_Project\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\C# Api 2022\api\UdemyLecture\Upload _ExcelAndCSV_Project\Upload _ExcelAndCSV_Project\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\C# Api 2022\api\UdemyLecture\Upload _ExcelAndCSV_Project\Upload _ExcelAndCSV_Project\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\C# Api 2022\api\UdemyLecture\Upload _ExcelAndCSV_Project\Upload _ExcelAndCSV_Project\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\C# Api 2022\api\UdemyLecture\Upload _ExcelAndCSV_Project\Upload _ExcelAndCSV_Project\bin\Debug\net8.0\ZstdSharp.dll
+D:\C# Api 2022\api\UdemyLecture\Upload _ExcelAndCSV_Project\Upload _ExcelAndCSV_Project\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\C# Api 2022\api\UdemyLecture\Upload _ExcelAndCSV_Project\Upload _ExcelAndCSV_Project\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+D:\C# Api 2022\api\UdemyLecture\Upload _ExcelAndCSV_Project\Upload _ExcelAndCSV_Project\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+D:\C# Api 2022\api\UdemyLecture\Upload _ExcelAndCSV_Project\Upload _ExcelAndCSV_Project\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+D:\C# Api 2022\api\UdemyLecture\Upload _ExcelAndCSV_Project\Upload _ExcelAndCSV_Project\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+D:\C# Api 2022\api\UdemyLecture\Upload _ExcelAndCSV_Project\Upload _ExcelAndCSV_Project\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+D:\C# Api 2022\api\UdemyLecture\Upload _ExcelAndCSV_Project\Upload _ExcelAndCSV_Project\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\C# Api 2022\api\UdemyLecture\Upload _ExcelAndCSV_Project\Upload _ExcelAndCSV_Project\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\C# Api 2022\api\UdemyLecture\Upload _ExcelAndCSV_Project\Upload _ExcelAndCSV_Project\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\C# Api 2022\api\UdemyLecture\Upload _ExcelAndCSV_Project\Upload _ExcelAndCSV_Project\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\C# Api 2022\api\UdemyLecture\Upload _ExcelAndCSV_Project\Upload _ExcelAndCSV_Project\obj\Debug\net8.0\Upload _ExcelAndCSV_Project.csproj.AssemblyReference.cache
+D:\C# Api 2022\api\UdemyLecture\Upload _ExcelAndCSV_Project\Upload _ExcelAndCSV_Project\obj\Debug\net8.0\Upload _ExcelAndCSV_Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Api 2022\api\UdemyLecture\Upload _ExcelAndCSV_Project\Upload _ExcelAndCSV_Project\obj\Debug\net8.0\Upload _ExcelAndCSV_Project.AssemblyInfoInputs.cache
+D:\C# Api 2022\api\UdemyLecture\Upload _ExcelAndCSV_Project\Upload _ExcelAndCSV_Project\obj\Debug\net8.0\Upload _ExcelAndCSV_Project.AssemblyInfo.cs
+D:\C# Api 2022\api\UdemyLecture\Upload _ExcelAndCSV_Project\Upload _ExcelAndCSV_Project\obj\Debug\net8.0\Upload _ExcelAndCSV_Project.csproj.CoreCompileInputs.cache
+D:\C# Api 2022\api\UdemyLecture\Upload _ExcelAndCSV_Project\Upload _ExcelAndCSV_Project\obj\Debug\net8.0\Upload _ExcelAndCSV_Project.MvcApplicationPartsAssemblyInfo.cs
+D:\C# Api 2022\api\UdemyLecture\Upload _ExcelAndCSV_Project\Upload _ExcelAndCSV_Project\obj\Debug\net8.0\Upload _ExcelAndCSV_Project.MvcApplicationPartsAssemblyInfo.cache
+D:\C# Api 2022\api\UdemyLecture\Upload _ExcelAndCSV_Project\Upload _ExcelAndCSV_Project\obj\Debug\net8.0\staticwebassets.build.json
+D:\C# Api 2022\api\UdemyLecture\Upload _ExcelAndCSV_Project\Upload _ExcelAndCSV_Project\obj\Debug\net8.0\staticwebassets.development.json
+D:\C# Api 2022\api\UdemyLecture\Upload _ExcelAndCSV_Project\Upload _ExcelAndCSV_Project\obj\Debug\net8.0\staticwebassets\msbuild.Upload _ExcelAndCSV_Project.Microsoft.AspNetCore.StaticWebAssets.props
+D:\C# Api 2022\api\UdemyLecture\Upload _ExcelAndCSV_Project\Upload _ExcelAndCSV_Project\obj\Debug\net8.0\staticwebassets\msbuild.build.Upload _ExcelAndCSV_Project.props
+D:\C# Api 2022\api\UdemyLecture\Upload _ExcelAndCSV_Project\Upload _ExcelAndCSV_Project\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Upload _ExcelAndCSV_Project.props
+D:\C# Api 2022\api\UdemyLecture\Upload _ExcelAndCSV_Project\Upload _ExcelAndCSV_Project\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Upload _ExcelAndCSV_Project.props
+D:\C# Api 2022\api\UdemyLecture\Upload _ExcelAndCSV_Project\Upload _ExcelAndCSV_Project\obj\Debug\net8.0\staticwebassets.pack.json
+D:\C# Api 2022\api\UdemyLecture\Upload _ExcelAndCSV_Project\Upload _ExcelAndCSV_Project\obj\Debug\net8.0\scopedcss\bundle\Upload _ExcelAndCSV_Project.styles.css
+D:\C# Api 2022\api\UdemyLecture\Upload _ExcelAndCSV_Project\Upload _ExcelAndCSV_Project\obj\Debug\net8.0\Upload _.F9C60C13.Up2Date
+D:\C# Api 2022\api\UdemyLecture\Upload _ExcelAndCSV_Project\Upload _ExcelAndCSV_Project\obj\Debug\net8.0\Upload _ExcelAndCSV_Project.dll
+D:\C# Api 2022\api\UdemyLecture\Upload _ExcelAndCSV_Project\Upload _ExcelAndCSV_Project\obj\Debug\net8.0\refint\Upload _ExcelAndCSV_Project.dll
+D:\C# Api 2022\api\UdemyLecture\Upload _ExcelAndCSV_Project\Upload _ExcelAndCSV_Project\obj\Debug\net8.0\Upload _ExcelAndCSV_Project.pdb
+D:\C# Api 2022\api\UdemyLecture\Upload _ExcelAndCSV_Project\Upload _ExcelAndCSV_Project\obj\Debug\net8.0\Upload _ExcelAndCSV_Project.genruntimeconfig.cache
+D:\C# Api 2022\api\UdemyLecture\Upload _ExcelAndCSV_Project\Upload _ExcelAndCSV_Project\obj\Debug\net8.0\ref\Upload _ExcelAndCSV_Project.dll
